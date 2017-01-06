@@ -1,5 +1,5 @@
 # App-Launch-Checklist
-iOS/Android App Launch Checklist taken from [link](https://branch.io/resources/app-launch-checklist).
+iOS/Android App Launch Checklist. [Source](https://branch.io/resources/app-launch-checklist).
 
 ##Tech Prep
 ###Use Source/Version Control for Your Code
