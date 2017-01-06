@@ -149,4 +149,4 @@ Mobile users expect quick, responsive app experiences. Make sure you optimize yo
 [More](https://www.kinvey.com/why-mobile-app-performance-matters/)
 
 ###Repeat
-Unless you have a huge marketing budget, start out of the gate with a featured placement, or get a massive viral boost, prepare yourself for a slow start. Your first release isn’t the finish line — it’s the starting block.Appolocious.
+Unless you have a huge marketing budget, start out of the gate with a featured placement, or get a massive viral boost, prepare yourself for a slow start. Your first release isn’t the finish line — it’s the starting block.
