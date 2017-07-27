@@ -7,10 +7,6 @@ iOS/Android App Launch Checklist. [Source](https://branch.io/resources/app-launc
 If you aren’t already using source control for your app project, start as soon as possible. This will prove invaluable when you need to release a critical bug fix to v1.0 of your app, after you’ve already been working on v2.0 for a month.
 [More](https://www.troyhunt.com/10-commandments-of-good-source-control/)
 
-### Use the Latest iOS/Android Features
-Apple and Google want to show off the latest features in iOS and Android, so incorporating these into your app will make sure you have the best chance of getting featured.
-[iOS](https://developer.apple.com/develop/) | [Android](https://developer.android.com/index.html)
-
 ### Enable Deep Linking
 Without deep linking, your app is an island cut off from the rest of the online ecosystem. In fact, some of the most powerful, user-friendly experiences you can build in your app rely on deep linking.
 [More](https://developer.branch.io/features/)
@@ -23,9 +19,74 @@ A user that comes from a shared piece of content and opens your app for the firs
 Push notifications are simultaneously one of the most effective and most dangerous tools at your disposal. You definitely will want to use them for re-engagement, but make sure you have a strategy that won't annoy or alienate your users.
 [More](https://onesignal.com)
 
-### Implement a Robust In-App Analytics Plan
+### In-App Analytics
 What metrics will you track, and how will you measure success? How will you attribute your acquisition channels, including incoming traffic and downloads?
 [More](http://www.techworld.com/picture-gallery/apps/eight-best-free-analytics-tools-for-mobile-app-developers-3636407/)
+
+### Integration to iTunes rating system
+
+### Add an In-App Feedback Channel
+Nothing kills growth like a low star rating on the App/Play Store, so don’t make reviews the first stop for user feedback or issues. Consider building an easily accessible, in-app feature for users to reach out to you.
+[More](https://blog.branch.io/getting-your-app-customers-to-love-you-lessons-from-the-trenches)
+
+### Implement a Crash Reporting Tool
+If your app crashes, you need to know about it and have some idea of what to do next.
+[More](http://blog.safedk.com/sdk-economy/find-whos-crashing-party-mobile-crash-reporting-tools-review/)
+
+### Add Content Sharing
+If your app has content, you probably want users to be able to share it with friends. This can drive viral growth, but you need to make sure your deep linking infrastructure is set up to support it on all platforms.
+[More](https://branch.io/sharing/)
+
+### New features screen
+
+### Explain how to use Phone/Watch/TV apps together
+
+### New features screen for Watch app
+
+### Widget screen
+
+### Siri integration
+
+### HealthKit integration
+
+### HomeKit integration
+
+### PassKit integration
+
+### iMessage extension
+
+### Call directoty extension
+
+### Photo editing extension
+
+### Quick Look Preview extension
+
+### Message filter extension
+
+### Network extension
+
+### File Provider extension
+
+### Content Blocker extension
+
+### Custom Keyboard extension
+
+### Integrate with Spotlight Search
+
+### Incorporate Location suggestions
+
+### Implementing QuickType suggestions
+
+### Integrate with Contacts
+
+### Implement Handoff
+
+### ApplePay integration
+
+### Delete account button
+
+### Setup deployment workflow
+[Fastlane](http://fastlane.tools)
 
 ## Marketing Prep
 ### Research and Test Competing Apps
@@ -51,6 +112,8 @@ Know who the important people in your app’s field are in advance, so that you 
 ### Assemble a Press Kit
 Have your press kit ready to go in advance, so that you are able to send a copy immediately when needed.
 [More](http://www.inmobi.com/blog/2015/05/04/what-every-app-developer-needs-to-know-about-press-kits)
+
+### Make app preview video
 
 ## Pre-Launch
 ### Start a Beta Program
@@ -78,38 +141,19 @@ Map out where you think most of your installs will come from. Do you have websit
 [More](https://amplitude.com/blog/2016/03/01/deep-linking-mobile-growth/)
 
 ## Brownie Points
-### Add an In-App Feedback Channel
-Nothing kills growth like a low star rating on the App/Play Store, so don’t make reviews the first stop for user feedback or issues. Consider building an easily accessible, in-app feature for users to reach out to you.
-[More](https://blog.branch.io/getting-your-app-customers-to-love-you-lessons-from-the-trenches)
-
-### Build a Sustainable Testing Strategy
-Not every app will need to invest in a full-scale suite of automated regression tests. However, the surest route to a slew of 1-star reviews is to release an app that crashes. At minimum, make sure you are manually testing your major features on real devices prior to submission.
-[More](https://axelerant.com/7-ways-win-mobile-application-testing/)
 
 ### Build Flows to Collect User Data for Later Engagement
 Around 25% of users only open an app once, and the 90 day retention rate can be as low as 14%. With numbers like these, re-engagement campaigns are crucial and you’ll need some way to contact your users if you want a shot at bringing them back.
 [More](http://info.localytics.com/blog/mobile-apps-whats-a-good-retention-rate)
 
-### Implement a Crash Reporting Tool
-If your app crashes, you need to know about it and have some idea of what to do next.
-[More](http://blog.safedk.com/sdk-economy/find-whos-crashing-party-mobile-crash-reporting-tools-review/)
-
 ### Get the Right Measurement and Engagement Tools for Growth
 There are literally hundreds of app-centric services in dozens of different categories. Some will be necessary for your app, and some won’t make sense to use (or will only be relevant later). Have an idea of which ones you will need and get them set up prior to launch.
 [More](http://www.mobilegrowthstack.com/the-mobile-growth-stack/)
-
-### Add Content Sharing
-If your app has content, you probably want users to be able to share it with friends. This can drive viral growth, but you need to make sure your deep linking infrastructure is set up to support it on all platforms.
-[More](https://branch.io/sharing/)
 
 ## Launch Day
 ### Follow Up with Public Relations (PR)
 The press kit you prepared earlier? That list of bloggers and influencers you built? Hopefully you’ve reached out to them and set a few embargoes. Check in with them and remind them when you’re launching and when to announce!
 [More](http://blog.pressfriendly.com/what-startups-need-to-know-about-press-embargoes/)
-
-### Get At Least Five 5-Star Reviews as Quickly as Possible
-A good average rating is one of the best ways to attract new downloads from users browsing around the store. Start with friends and family, beta users, or even strangers you meet at the local coffee shop or on campus.
-[More](https://www.mobileaction.co/blog/importance-ratings-reviews/)
 
 ### Make Your First Users Feel Special
 Doing things to make your users feel special will help bring them back. Think of the initial app experience as a first date — you need to make it personal, light, and interesting.
